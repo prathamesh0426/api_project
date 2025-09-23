@@ -57,3 +57,4 @@ class StockClient:
         fig.update_layout(width=1200, height=800)
         return fig
     
+    
